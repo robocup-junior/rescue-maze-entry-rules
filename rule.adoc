@@ -173,7 +173,7 @@ The “Intermediate” level is more challenging than the Beginner level and is 
 
 Regional organizers may conduct competitions using either or both levels. They may also modify or combine these rules to create their own competition rules.
 
-
+<<<
 [discrete]
 == Scenario
 
@@ -189,18 +189,18 @@ image::media/field_overview.png[]
 The robot needs to search through a maze for victims. The robot is not supposed to find the fastest path through the labyrinth; instead, it should explore as much of the maze as possible. The robot will be awarded points for each victim detected, depending on its location in the field. Additionally, if the robot can correctly identify the color of the victim, it will receive extra points.
 
 * 10 points for a victim on linear tile detected
-* 【Intermediate】30 points for a victim on floating tile detected
+* [Intermediate] 30 points for a victim on floating tile detected
 * 10 points for correctly color identification
 
 If the robot is stuck in the maze（It's called “lack  of progress”）, it can be restarted at the last visited checkpoint. The robot must also avoid areas with black floors. 
 
-【Intermediate】 A reflective floor indicates a checkpoint, so the robot can save the position to a map (if it uses a map) in a non-volatile medium and restore it in case of a restart.
+[Intermediate]  A reflective floor indicates a checkpoint, so the robot can save the position to a map (if it uses a map) in a non-volatile medium and restore it in case of a restart.
 
-【Beginner】 Checkpoints are tiles where victims are placed, so the robot can save the position to a map (if it uses a map) in a non-volatile medium and restore it in case of a restart. 
+[Beginner]  Checkpoints are tiles where victims are placed, so the robot can save the position to a map (if it uses a map) in a non-volatile medium and restore it in case of a restart. 
 
 If the robot can find its way back to the starting tile, it will receive an exit bonus.  Suppose the robot can find its way back to the starting tile after exploring the maze. In that case, it will receive ten bonus points per identified victim as an exit bonus. 
 
-【Intermediate】The robot will also earn a reliability bonus if the robot can exit the maze with a minimum number of restarts.
+[Intermediate] The robot will also earn a reliability bonus if the robot can exit the maze with a minimum number of restarts.
 The robot can earn additional points by navigating the following hazards: 
 
 * 10 points for each visited checkpoint 
