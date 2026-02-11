@@ -31,8 +31,9 @@
 
 . Referees, officials, tournament organizers, and local law enforcement authorities will enforce these rules equally to all participants.
 
-. Teams are expected to be at the venue early on the setup day as important activities will occur. These activities include but are not limited to registration, participation raffle, interviews, captains, and mentor's meetings, among others.
+. Teams are expected to be at the venue early on the setup day as important activities will occur.  These activities include but are not limited to registration, participation raffle, interviews, captains, and mentor's meetings, among others.
 
+[[mentors]]
 === Mentors
 
 . Non-team members (mentors, teachers, parents and other family, chaperones, translators, and other adult team members) are not allowed in the student work area.
