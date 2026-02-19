@@ -24,8 +24,7 @@
 === Path
 
 . Tiles that lead to the starting tile and checkpoint tiles consistently following the leftmost or rightmost wall are called 'linear tiles'. The tiles that do NOT lead to the starting tile and checkpoint tiles consistently following the leftmost or rightmost wall are called 'floating tiles'.
-+
-[Beginner]  There are no floating tiles.
+
 +
 [.text-center]
 image::media/path.png[MAZE_PATH,pdfwidth=100%,align=center]
@@ -36,9 +35,8 @@ image::media/path.png[MAZE_PATH,pdfwidth=100%,align=center]
 
 . Pathways for the robot are intended to be of the width of the tile and may open into foyers more expansive than the pathways.
 
-. One tile is the starting tile, where a robot should start and exit the run. It can be located anywhere in the field.
-+
-[Beginner]  The starting tile is Silver.
+. One tile is the starting tile, where a robot should start and exit the run. The starting tile will only be placed along the outer perimeter and must be colored silver.
+
 
 . Walls may be removed, added, or changed just before a scoring run starts to prevent teams from pre-mapping the layout of the fields. Organizers will do their best not to change the maze’s length or difficulty when introducing these changes.
 
