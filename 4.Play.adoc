@@ -21,9 +21,7 @@
 [[start-of-game]]
 === Start of Game
 
-. [Beginner] Each team has a maximum of 4 minutes for a game. The game includes the time for calibration and the scoring run.
-+
-[Intermediate] Each team has a maximum of 6 minutes for a game. The game includes the time for calibration and the scoring run.
+. Each team has a maximum of 6 minutes for a game. The game includes the time for calibration and the scoring run.
 
 . Calibration is defined as taking sensor readings and modifying a robot’s program to accommodate such sensor readings. Calibration does not count as pre-mapping.
 
@@ -43,9 +41,7 @@
 
 . Teams may choose not to calibrate the robot and immediately start the scoring run instead.
 
-. [Intermediate]  Once the robot starts moving as the scoring run begins, a referee will place the black  and silver tiles.
-+
-[Beginner]  Once the robot starts moving as the scoring run begins, a referee will place the black tiles.
+. Once the robot starts moving as the scoring run begins, a referee will place the black  and silver tiles, except the starting tile.
 
 
 [[run]]
@@ -69,8 +65,6 @@
 .. a team member touches the field or their robot without permission from a referee.
 
 . In the event of a lack of progress, the robot must return to the last visited checkpoint (or the start tile if it never reached a checkpoint). The robot can be installed in any direction. For the definition of the visited tile (see <<run>>).
-+
-[Beginner] 　If a robot restarts after a LoP and simultaneously performs a detection, it will not be accepted.
 
 . After a lack of progress, only the LoP procedure explained to the referee before the run start is allowed to be performed (see <<construction>>).
 
@@ -82,7 +76,7 @@
 . Points are rewarded for each Successful Victim detection in the field. 
 
 .. For victims located on a linear tile. :  10 points 
-.. [Intermediate] On floating tiles :  30 points
+.. For victims located on a floating tiles :  30 points
 
 +
 Some tiles change between floating or linear depending on the adjacent black and silver tiles. The field designer must remember this rule when deciding on the location of the black and silver tiles. They can be changed during the run via a dice roll to keep the maximum score consistent. 
@@ -92,7 +86,7 @@ Some tiles change between floating or linear depending on the adjacent black and
 * Red victim: The robot must stop on the Red victim and blink with the Red LED (see <<construction>>) that is clearly visible to the referee for the full 5 seconds while stationary. The blink interval (ON: 500ms, OFF: 500ms) must be followed to successfully detect a victim.
 * Green victim: The robot must stop on the Green victim and blink with the Green LED (see <<construction>>) that is clearly visible to the referee for the full 5 seconds while stationary. The blink interval (ON: 500ms, OFF: 500ms) must be followed to successfully detect a victim.
 
-. [Intermediate] The Reliability Bonus is a non-negative number and calculated from the number of successful victim identifications (SVI) and the total number of Lack of Progresses (LoP) as such:
+. The Reliability Bonus is a non-negative number and calculated from the number of successful victim identifications (SVI) and the total number of Lack of Progresses (LoP) as such:
 
 . Successful navigate a Speed Bump, The robot visits each tile with speed bumps, then visits  another tile, the robot is awarded 5 points. 
 
