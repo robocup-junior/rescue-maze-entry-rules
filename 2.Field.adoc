@@ -15,7 +15,7 @@
 . Colored tiles:
 .. There will be tiles of different colors on the floor of the maze. The meaning of each color is explained below.
 ... Black tiles in the field represent holes, which the robot must avoid.
-... Silver tile in the field represents the starting tile and Silver tiles in the field represent checkpoints.
+... Silver tiles in the field represent the starting tile and checkpoints.
 
 .. The colored tiles will be placed at the start of each game.
 .. The organizers will fix colored tiles to the floor, but teams should be prepared for slight movements of these tiles.
