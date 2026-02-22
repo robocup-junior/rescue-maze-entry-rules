@@ -60,7 +60,7 @@
 
 . Students will be asked to explain their robot’s operation to verify that its construction and programming are their own work.
 
-. Students will be asked about their preparation efforts. The RoboCupJunior Rescue Committee may request them to answer surveys and participate in videotaped interviews for research purposes.
+. Students will be asked about their preparation efforts. The RoboCupJunior Rescue Committee may request them to answer surveys and participate in recorded interviews for research purposes.
 
 . All teams must complete a web form before the competition if requested by the organizers. This is to help the judges prepare better for the interview. The organizers will instruct teams in advance on how to submit the form.
 
