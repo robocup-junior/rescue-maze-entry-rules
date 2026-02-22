@@ -156,6 +156,7 @@ These rules are designed as an introductory version for beginners. Please take c
 This document provides a general framework and recommendations for organizing competitions.
 It is not intended to be prescriptive or exhaustive. Each local organizing committee may adapt or modify these guidelines flexibly to meet the needs and circumstances of their community.
 The guiding principle is this: challenges must enrich students' learning and problem-solving—not become obstacles that cause failure due to excessive technicalities. Overly complex or rigid requirements risk shifting focus away from education and onto rule compliance.
+
 Organizers are therefore encouraged to:
 
 * Prioritize student growth and exploration above strict technical constraints.
