@@ -106,4 +106,4 @@ Some tiles change between floating or linear depending on the adjacent black and
 . The game ends when: 
 .. The 6 minutes of allowed game time expires  
 .. The team captain calls the end of the game.
-.. The robot rescues all victims.
+.. The robot performs the exit performance anywhere on the field.
