@@ -77,4 +77,4 @@ However, the organizers will not share it with other teams without the team’s 
 
 . No mentor assistance is allowed during the competition. (See <<code-of-conduct>>)
 
-. Any rule violations may be penalized by disqualification from the tournament or the game or result in a loss of points at the discretion of the referees, officials, or RoboCupJunior Rescue Committee.
+. Any rule violations may be penalized by disqualification from the tournament or the game or result in a loss of points at the discretion of the referees, officials, or the tournament organizer.
