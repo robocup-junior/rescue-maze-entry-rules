@@ -60,7 +60,6 @@
 . A lack of progress occurs when:
 .. the team captain declares a lack of progress.
 .. a robot visited the black tile. See the definition of visited tile on <<run>>.
-.. a robot visits another tile without stopping for 5 consequent seconds after visiting a blue tile. See the definition of visited tile on <<run>>.
 .. a robot damages the field.
 .. a team member touches the field or their robot without permission from a referee.
 
