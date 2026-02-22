@@ -31,9 +31,9 @@ image::media/path.png[MAZE_PATH,pdfwidth=100%,align=center]
 +
 . Black tiles will affect the determination of tile type (linear or floating) since they can be considered virtual walls.
 
-. Teams must prepare for the pathways to be slightly smaller in dimension (±10% variation on the tile size) than a tile due to the nature of placing walls.
+. Teams must prepare for the pathways to be slightly smaller due to the walls not being indefinitely thin. That leads that the pathway between two opposite walls is 28 cm wide.
 
-. Pathways for the robot are intended to be of the width of the tile and may open into foyers more expansive than the pathways.
+. Pathways may open into foyers more expansive than the pathways.
 
 . One tile is the starting tile, where a robot should start and exit the run. The starting tile will only be placed along the outer perimeter and must be colored silver.
 
