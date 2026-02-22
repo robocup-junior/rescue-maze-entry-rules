@@ -23,7 +23,7 @@
 
 . Robots like drones or hovercrafts are prohibited in the challenge due to safety reasons.
 
-. Teams are not permitted to use commercially produced robot kits or sensor components specifically designed or marketed to complete any single primary task of RoboCupJunior Rescue. Robots that do not comply will face immediate disqualification from the tournament. If there is any doubt, teams should consult the tournament organizer before the competition.
+. Teams are not permitted to use cameras or vision-based recognition devices or commercially produced robot kits or sensor components specifically designed or marketed to complete any single primary task of RoboCupJunior Rescue. Robots that do not comply will face immediate disqualification from the tournament. If there is any doubt, teams should consult the tournament organizer before the competition.
 
 . Any lasers must not be used.
 
