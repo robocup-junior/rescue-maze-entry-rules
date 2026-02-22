@@ -8,6 +8,8 @@
 
 . All walls used to create the maze are at least 15 cm high from any floor or the peak, 30 cm in length, and are mounted on the edges of the tiles.
 
+. The definition of walls also include the support structure on the ends (e.g. item profiles, pillars, …).
+
 === Floor
 
 . Floors may be either smooth or textured (like linoleum or carpet) and may have deviations of up to 3 mm in height between the tiles. There may be holes in the floor (approximately 5 mm in diameter) for fastening walls.
