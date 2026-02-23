@@ -70,7 +70,7 @@
 [[scoring]]
 === Scoring
 
-. To successfully detect a victim, the robot must visit from other tile and stop on the victim and blink with the specific LED (see <<construction>>) that is clearly visible to the referee for the full 5 seconds while stationary. The blink interval (ON: 500ms, OFF: 500ms) must be followed to successfully detect a victim.
+. To successfully detect a victim, the robot must visit from other tile and stop on the victim and blink with any color LED (see <<construction>>) that is clearly visible to the referee for the full 5 seconds while stationary. The blink interval (ON: 500ms, OFF: 500ms) must be followed to successfully detect a victim.
 
 . Points are rewarded for each Successful Victim detection in the field. 
 
