@@ -85,6 +85,8 @@ Some tiles change between floating or linear depending on the adjacent black and
 * Red victim: The robot must stop on the Red victim and blink with the Red LED (see <<construction>>) that is clearly visible to the referee for the full 5 seconds while stationary. The blink interval (ON: 500ms, OFF: 500ms) must be followed to successfully detect a victim.
 * Green victim: The robot must stop on the Green victim and blink with the Green LED (see <<construction>>) that is clearly visible to the referee for the full 5 seconds while stationary. The blink interval (ON: 500ms, OFF: 500ms) must be followed to successfully detect a victim.
 
+. Points are rewarded for each Successful Victim identification in the field 10 points.
+
 . The Reliability Bonus is a non-negative number and calculated from the number of successful victim identifications (SVI) and the total number of Lack of Progresses (LoP) as such:
  ⋆　(RELIABILITY BONUS) = (SVI) × 10 - (LoP) × 10
 
@@ -92,7 +94,7 @@ Some tiles change between floating or linear depending on the adjacent black and
 
 . Successful Checkpoint Navigation. A robot is awarded 10 points for each visited checkpoint. Refer to Section 5.4, “Scoring Run” for definition of visited tile. 
 
-. Successful Exit Bonus. A robot is awarded 10 points for each victim successfully identified. The 'exit bonus' condition is satisfied when the robot returns to the starting tile and performs the following: On the starting tile, the robot has to stop and blink (ON: 1s, OFF: 1s) with the green and red LEDs used to identify victims (see Section 4.3, "Build") alternately (on for 1 second, off for 1 second) for at least 10 seconds. If the robot performs an "Exit Performance" on any tile, it must exit the game.
+. Successful Exit Bonus. The 'exit bonus' condition is satisfied when the robot returns to the starting tile and performs the following: On the starting tile, the robot has to stop and blink (ON: 1s, OFF: 1s) with the green or red LEDs used to identify victims (see Section 4.3, "Build") for at least 10 seconds. If the robot performs an "Exit Performance" on any tile, it must exit the game.
 
 . No duplicate rewards. For example, suppose a robot successfully crosses a tile with speed bumps multiple times. In that case, only one successful speed bump crossing will be rewarded per tile. The same result applies to all other scoring rules. 
 
