@@ -189,7 +189,7 @@ If the robot is stuck in the maze（It's called “lack  of progress”）, it c
 
 A reflective floor indicates a checkpoint, so the robot can save the position to a map (if it uses a map) in a non-volatile medium and restore it in case of a restart. 
 
-If the robot can find its way back to the starting tile, it will receive an exit bonus.  Suppose the robot can find its way back to the starting tile after exploring the maze. In that case, it will receive ten bonus points per identified victim as an exit bonus. 
+If the robot can find its way back to the starting tile, it will receive an exit bonus.  Suppose the robot can find its way back to the starting tile after exploring the maze. In that case, it will receive 10 bonus points per identified victim as an exit bonus. 
 
 The robot will also earn a reliability bonus if the robot can exit the maze with a minimum number of restarts.
 The robot can earn additional points by navigating the following hazards: 
