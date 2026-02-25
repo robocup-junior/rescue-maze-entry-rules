@@ -3,7 +3,6 @@ on:
     tags:
       - '*'
       - '!test'
-  workflow_dispatch:
 jobs:
   build:
     name: Build
