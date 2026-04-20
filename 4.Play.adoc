@@ -88,7 +88,7 @@ Some tiles change between floating or linear depending on the adjacent black and
 . Points are rewarded for each Successful Victim identification in the field 10 points.
 
 . The Reliability Bonus is a non-negative number and calculated from the number of successful victim identifications (SVI) and the total number of Lack of Progresses (LoP) as such:
- ⋆　(RELIABILITY BONUS) = (SVI) × 10 - (LoP) × 10
+ ⋆ (RELIABILITY BONUS) = (SVI) × 10 - (LoP) × 10
 
 . Successful navigate a Speed Bump, The robot visits each tile with speed bumps, then visits  another tile, the robot is awarded 5 points. 
 
