@@ -8,7 +8,7 @@
 
 . All walls used to create the maze are at least 15 cm high from any floor or the peak, 30 cm in length, and are mounted on the edges of the tiles.
 
-. The definition of walls also include the support structure on the ends (e.g. item profiles, pillars, …).
+. The definition of walls also include the support structure on the ends (e.g. pillars, aluminium profiles, …).
 
 === Floor
 
@@ -33,7 +33,7 @@ image::media/path.png[MAZE_PATH,pdfwidth=100%,align=center]
 +
 . Black tiles will affect the determination of tile type (linear or floating) since they can be considered virtual walls.
 
-. Teams must prepare for the pathways to be slightly smaller due to the walls not being indefinitely thin. That leads that the pathway between two opposite walls is 28 cm wide.
+. Teams must prepare for the pathways to be slightly smaller due to the walls not being indefinitely thin. That leads to the pathway between two opposite walls being 28 cm wide.
 
 . Pathways may open into foyers more expansive than the pathways.
 
